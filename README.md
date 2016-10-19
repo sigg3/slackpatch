@@ -1,8 +1,5 @@
-`                    ____  _____    _    ____  __  __ _____ 
-                   |  _ \| ____|  / \  |  _ \|  \/  | ____|
-                   | |_) |  _|   / _ \ | | | | |\/| |  _|  
-                   |  _ <| |___ / ___ \| |_| | |  | | |___ 
-                   |_| \_\_____/_/   \_\____/|_|  |_|_____|`
+README
+======
 
 Slackpatch is a hillbilly update tool for Slackware systems with lazy admins.
 It uses curl to check ftp.slackware.com for patches for your Slackware version,
